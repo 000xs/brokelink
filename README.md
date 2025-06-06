@@ -26,6 +26,11 @@ pip install brokelink
 git clone https://github.com/000xs/brokelink.git
 cd brokelink
 pip install -e .
+
+```
+### verify installation
+```
+brokelink
 ```
 
 ## Quick Start
