@@ -12,7 +12,7 @@ from colorama import init, Fore, Style
 from .parser import LinkParser
 from .utils import LinkChecker, BrokenLinkReport
 
-# Initialize colorama for cross-platform colored output
+ 
 init(autoreset=True)
 
 @click.command()
