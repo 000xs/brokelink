@@ -1,4 +1,7 @@
 
+
+# BrokeLink
+
 A powerful CLI tool to scan Markdown and HTML files for broken links, missing images, and invalid references.
 
 ## Features
